@@ -35,10 +35,12 @@ Tools like Jira were used for the project manegement, creating an Scrum Panel wi
 # Miembros del equipo / Team members:
 
 - Carlos Gómez López.
-- Javier
-- José (Scrum Master)
-- Carlos
-- Mario
-- Álvaro
-- Julián (Product Owner)
-- 
+- Javier de Vicente Vázquez.
+- José Díaz Reviejo (Scrum Master)
+- Carlos Carnero Mérida.
+- Mario Campos Sobrino.
+- Álvaro Gómez Sittima
+- Julián Moffat (Product Owner).
+- Juan Romo Iribarren (me)
+- Gonzalo Vílchez Rodríguez
+- David Elías Piñero
